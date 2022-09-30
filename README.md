@@ -1,11 +1,11 @@
 # OPL2500A1-HDK
 Opulinks official hardware development kit for OPL2500.
 
-
-Datasheet  
-Documents  
-Gerber  
-Layout  
-SCH  
-SMT Data  
+HDK include:
+1. Datasheet  
+2. Documents  
+3. Gerber  
+4. Layout  
+5. SCH  
+6. SMT Data  
 
