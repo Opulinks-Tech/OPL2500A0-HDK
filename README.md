@@ -2,7 +2,7 @@
 Opulinks official hardware development kit for OPL2500.
 
 HDK include:
-1. Datasheet  
+1. Datasheet
 2. Documents  
 3. Gerber  
 4. Layout  
