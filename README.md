@@ -4,8 +4,8 @@ Opulinks official hardware development kit for OPL2500.
 
 Datasheet  
 Documents  
-Gerber
-Layout
-SCH
-SMT Data
+Gerber  
+Layout  
+SCH  
+SMT Data  
 
