@@ -1,4 +1,4 @@
-# OPL2500A1-HDK
+# OPL2500A0-HDK
 Opulinks official hardware development kit for OPL2500.
 
 HDK include:
