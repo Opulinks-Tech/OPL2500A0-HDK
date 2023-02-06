@@ -16,3 +16,4 @@ HDK include:
 | -------------- |------------|
 | **OPL2500S**      | **[Download Link](https://github.com/Opulinks-Tech/OPL2500A0-HDK/blob/main/OPL2500S-i5006_OP25%20datasheet_DSCN_1.0.pdf)**  | 
 | **OPL2500P**      | **[DownLoad Link](https://github.com/Opulinks-Tech/OPL2500A0-HDK/blob/main/OPL2500P-i5005_OP25_ePA%20datasheet_DSCN_1.0.pdf)** |
+| **OPL2500PMini**  | **[DownLoad Link]** |
