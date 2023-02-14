@@ -9,7 +9,7 @@ HDK include:
 5. SCH  
 6. SMT Data  
 
-## OPL2500 模塊規格書(Module Datasheet):
+## OPL2500 模塊規格書與HDK 下載點:
 
 **OPL2500 模塊組合表**
 | **模塊料號(P/N)**    | **Datasheet** |**HDK** |
