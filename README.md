@@ -22,3 +22,10 @@ HDK include:
 | ****    | **** |
 | -------------- |------------|
 **OPL2500 HW Design check list** | **[Download Link](https://github.com/Opulinks-Tech/OPL2500A0-HDK/blob/main/OPL2500%20HW%20Design%20check%20list_V2.0.xlsx)** | 
+
+
+<table>
+  <tr>
+   <tr>
+    <td>OPL2500 HW Design check list</td>
+    <td>DownLoad Link</td>
