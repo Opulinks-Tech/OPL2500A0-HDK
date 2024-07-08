@@ -1,15 +1,15 @@
 # OPL2500-HDK
 Opulinks official hardware development kit for OPL2500.
 
-**OPL2500 HW Design check list** | **[Download Link](https://github.com/Opulinks-Tech/OPL2500A0-HDK/blob/main/OPL2500%20HW%20Design%20check%20list_V2.0.xlsx)** | 
-
 HDK include:
 1. Datasheet
 2. Documents  
 3. Gerber  
 4. Layout  
 5. SCH  
-6. SMT Data  
+6. SMT Data
+
+**OPL2500 HW Design check list** | **[Download Link](https://github.com/Opulinks-Tech/OPL2500A0-HDK/blob/main/OPL2500%20HW%20Design%20check%20list_V2.0.xlsx)** | 
 
 ## OPL2500 Module Datasheet與HDK 下載點:
 
